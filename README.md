@@ -3,8 +3,8 @@
 <p align="justify">In this program, single 8-bit ASCII characters are received and transmitted continuously over USART.</p>
 
 <p align="justify">There are certain instances where a microcontroller will need to communicate with an external peripheral or another microcontroller to transmit data. Similar to
-human communication, communication between electronic devices have to follow certain rules in order to transmit data accurately and efficiently. The rules of communication or 
-"protocols" differ based on the type of communication used between the devices.</p>
+human communication, communications between electronic devices have to follow certain rules in order to transmit data accurately and efficiently. The rules of communication or 
+"protocols" differ based on the communication method used.</p>
 
 <p align="justify">The ATmega32A has 3 primary communication devices built within it; USART, SPI, and TWI or I2C. Each device follows different protocols and has their own 
 advantages and disadvantages.</p>
